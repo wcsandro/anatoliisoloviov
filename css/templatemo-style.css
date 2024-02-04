@@ -85,6 +85,10 @@ footer a:hover {
     padding: 20px;
 }
 
+#about h2.text-center {
+    text-align: center;
+}
+
 #portfolio {
     background-color: #D5DAE4;
     padding: 20px;
@@ -93,6 +97,11 @@ footer a:hover {
 #portfolio a {
     color: #2c3e50;
 }
+
+#portfolio:hover a{
+    color: #3498db; /* Белый цвет */
+}
+
 
 #contact {
     background-color: #D5DAE4;
